@@ -1,0 +1,15 @@
+# Recipes – Eat Yourself! 🍴
+
+## Knife Crafting
+**Ingredients:** 1 Iron Ingot, 1 Stick
+
+**Recipe Image:**
+
+![Knife Crafting](images/knife_crafting.png)
+
+## Cooking Raw Player Meat
+**Ingredients:** 1 Raw Player Meat
+
+**Recipe Image:**
+
+![Cooking Raw Player Meat](images/cooked_player_meat.png)

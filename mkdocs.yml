@@ -1,0 +1,76 @@
+site_name: "Athi's Workshop Wiki"
+site_url: "https://athlantes.github.io/athiwiki/"
+theme:
+  name: material
+  logo: "images/logo.png"
+  favicon: "images/logo.png"
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+    - content.tabs.copy
+  palette:
+      # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+    # Light mode
+    - scheme: default
+      primary: blue
+      accent: green
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Plugins:
+      - "All Plugins": plugins/plugins.md
+      - "🪂 Athi's Airdrops": 
+        - Overview: plugins/athis_airdrops/overview.md
+        - Features: plugins/athis_airdrops/features.md
+        - Installation: plugins/athis_airdrops/installation.md
+        - Configuration: plugins/athis_airdrops/configuration.md
+        - Commands: plugins/athis_airdrops/commands.md
+        - Changelog: plugins/athis_airdrops/changelog.md
+
+  - Mods:
+      - "All Mods": mods/mods.md
+      - "🔪 Eat Yourself": 
+        - Overview: mods/eat_yourself/overview.md
+        - Features: mods/eat_yourself/features.md
+        - Installation: mods/eat_yourself/installation.md
+        - Recipes: mods/eat_yourself/recipes.md
+        - Changelog: mods/eat_yourself/changelog.md
+  - Modpacks:
+      - "All Modpacks": modpacks/modpacks.md
+      - "🧰 Builder's Toolbox": 
+        - Overview: modpacks/builders_toolbox/overview.md
+        - Features: modpacks/builders_toolbox/features.md
+        - Installation: modpacks/builders_toolbox/installation.md
+        - Changelog: modpacks/builders_toolbox/changelog.md
+      - "🌾 Farmer's Frenzy": 
+        - Overview: modpacks/farmers_frenzy/overview.md
+        - Features: modpacks/farmers_frenzy/features.md
+        - Installation: modpacks/farmers_frenzy/installation.md
+        - Changelog: modpacks/farmers_frenzy/changelog.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: "https://discord.gg/PVVDJ7YE7b"
