@@ -7,6 +7,13 @@
 
 ![Knife Crafting](images/knife_crafting.png)
 
+## Player Meat Sandwich Crafting
+**Ingredients:** 1 Bread, 1 Cooked Player Meat, 1 Knife
+
+**Recipe Image:**
+
+![Sandwich Crafting](images/sandwich_crafting.png)
+
 ## Cooking Raw Player Meat
 **Ingredients:** 1 Raw Player Meat
 
