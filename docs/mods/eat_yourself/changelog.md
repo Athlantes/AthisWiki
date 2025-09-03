@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.2.0: What's this Knife? (Sep 3, 2025)
+
+- Added Advancement for cutting yourself
+- Added Diamond Knife (lower damage for more meat)
+- Added Player Meat Soup
+- Added Icon To Mod Display In-Game
+
+- Renamed Knife to Iron Knife
+- Increased Damage gained by Iron Knife
+
+*For detailed updates and discussions, visit the [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/eat-yourself).*
+
 ## v1.1.0: More ways to eat yourself! (Aug 25, 2025)
 
 - Added Player Meat Sandwich

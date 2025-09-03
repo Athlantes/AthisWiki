@@ -1,6 +1,6 @@
 # Recipes – Eat Yourself! 🍴
 
-## Knife Crafting
+## Iron Knife Crafting
 **Ingredients:** 1 Iron Ingot, 1 Stick
 
 **Recipe Image:**
