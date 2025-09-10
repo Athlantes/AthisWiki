@@ -1,5 +1,12 @@
 # Farmer's Frenzy Changelog 📝
 
+## Version 1.0.7
+- **Fixes**: Fixed some recipes from Cutting Board where output was empty.
+- **Updated Mods**: Updated some of the mods to latest versions.
+
+## Version 1.0.6
+- **Added Mods**: Added Eat Yourself! mod for more ways to get food at start.
+
 ## Version 1.0.5
 - **Updated Mods**: All included mods have been updated to their latest versions for improved performance and compatibility.
 
