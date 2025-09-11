@@ -28,7 +28,9 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-
+  codehilite:
+    guess_lang: false
+    pygments_style: default
 markdown_extensions:
   - admonition
   - codehilite
