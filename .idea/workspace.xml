@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24bc7eea-8854-48e8-a923-edd29eab8467" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/modpacks/builders_toolbox/changelog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/modpacks/builders_toolbox/changelog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/modpacks/builders_toolbox/features/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/modpacks/builders_toolbox/features/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/modpacks/builders_toolbox/installation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/modpacks/builders_toolbox/installation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/modpacks/builders_toolbox/overview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/modpacks/builders_toolbox/overview/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/modpacks/farmers_frenzy/changelog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/modpacks/farmers_frenzy/changelog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/modpacks/farmers_frenzy/features/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/modpacks/farmers_frenzy/features/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/modpacks/farmers_frenzy/installation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/modpacks/farmers_frenzy/installation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/modpacks/farmers_frenzy/overview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/modpacks/farmers_frenzy/overview/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/modpacks/modpacks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/modpacks/modpacks/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/mods/eat_yourself/changelog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/mods/eat_yourself/changelog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/mods/eat_yourself/features/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/mods/eat_yourself/features/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/mods/eat_yourself/installation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/mods/eat_yourself/installation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/mods/eat_yourself/overview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/mods/eat_yourself/overview/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/mods/eat_yourself/recipes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/mods/eat_yourself/recipes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/mods/mods/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/mods/mods/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/plugins/athis_airdrops/changelog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/plugins/athis_airdrops/changelog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/plugins/athis_airdrops/commands/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/plugins/athis_airdrops/commands/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/plugins/athis_airdrops/configuration/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/plugins/athis_airdrops/configuration/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/plugins/athis_airdrops/features/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/plugins/athis_airdrops/features/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/plugins/athis_airdrops/installation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/plugins/athis_airdrops/installation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/plugins/athis_airdrops/overview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/plugins/athis_airdrops/overview/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/plugins/plugins/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/plugins/plugins/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/search/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/site/search/search_index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/sitemap.xml.gz" beforeDir="false" afterPath="$PROJECT_DIR$/site/sitemap.xml.gz" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Athlantes"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Athlantes/AthisWiki.git",
+    "accountId": "6e491979-a298-4c70-81a4-972d15391a63"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="32XmmdFjiiIq48j3lNBuqLpprvf" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "last_opened_file_path": "D:/AthisWiki",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24bc7eea-8854-48e8-a923-edd29eab8467" name="Changes" comment="" />
+      <created>1757575451357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757575451357</updated>
+      <workItem from="1757575452500" duration="6000" />
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,6 +1,15 @@
 # Changelog – Athi's Airdrops 📜
 
-## v0.1.4
+## v0.2.0 - Command Vouchers
+- Command Based Rewards:
+Now, admins can create custom items that can be right-clicked to summon commands. For usage, check 'Configuration' tab.
+- If compass system is off, when an airdrop is spawned it will show coords instead of block distance.
+- Added toggable animation in Config.yml
+- Added customizable landing speed & height for animation in Config.yml
+
+> ⚠️ Note: To ensure compatibility with the new updates, it’s recommended to **regenerate or edit your `config.yml`** after upgrading to v0.2.0. Check **Configuration** tab for changes.
+
+## v0.1.4 - Fixes V2
 - Lockdown Hologram no longer visible when `lock-airdrop` is false.  
 - `/airdrop reload` now reloads `loot.yml` and stops the airdrop system to ensure proper functionality.  
 - Plugin now checks for errors in `loot.yml` to verify item IDs.  
@@ -10,7 +19,7 @@
 - Ghost chests removed on server stop to prevent leftover chests after restart.  
 - Fixed ItemsAdder TileState error when closing chests with ItemsAdder active.
 
-## v0.1.3
+## v0.1.3 - Even More Fixes
 - Improved cooldown logic for compass and manual commands.  
 - Hologram management optimized for better stability.  
 - Loot handling improved for performance and reliability.  
@@ -22,12 +31,12 @@
 
 > ⚠️ Note: To ensure compatibility with the new updates, it’s recommended to **regenerate your `config.yml`** after upgrading to v0.1.3 or later.
 
-## v0.1.2
+## v0.1.2 - Fixes & Animations
 - **Chest protection:** Players can no longer break the chest; all players have a chance to get items.  
 - **Chunk loading fix:** Airdrops spawned in unloaded chunks now load the chunk properly.  
 - **Airdrop animation:** Airdrops spawn in the air with a drop animation (WIP).  
 - **Enhanced cleanup:** Improved process for cleaning up airdrops after the timer ends.
 
-## v0.1.1
+## v0.1.1 - Config.yml Update
 - **Config message fix:** A message was missing in `config.yml`.  
 - You can either **regenerate `config.yml`** or manually **add the missing line** to the bottom of your config after updating the plugin.
