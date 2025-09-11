@@ -59,7 +59,7 @@ All loot crates are defined in **`loot.yml`**. Each loot table has:
 ## Example Loot Tables
 
 - Common Loot Crate
-```yaml
+```
 common_lootcrate: # Entry name - Can be anything in this format (no spaces and special characters)
   chance: 0.7  # 70% chance to pick this loot table
   min-items: 1 # Minimum items that can be in the crate
@@ -102,7 +102,7 @@ common_lootcrate: # Entry name - Can be anything in this format (no spaces and s
 ```
 
 - Uncommon Loot Crate
-```yaml
+```
 uncommon_drop:
   chance: 0.3
   min-items: 1
