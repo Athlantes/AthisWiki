@@ -1,13 +1,15 @@
 # Changelog – Athi's Airdrops 📜
 
+> ⚠️ Note: If you encounter any problems, you can join our Discord server for help: [Join Discord](https://discord.com/invite/PVVDJ7YE7b)
+
 ## v0.2.0 - Command Vouchers
 - Command Based Rewards:
-Now, admins can create custom items that can be right-clicked to summon commands. For usage, check 'Configuration' tab.
+Now, admins can create custom items that can be right-clicked to summon commands. For usage, check [Configuration](plugins/athis_airdrops/configuration.md) tab.
 - If compass system is off, when an airdrop is spawned it will show coords instead of block distance.
 - Added toggable animation in Config.yml
 - Added customizable landing speed & height for animation in Config.yml
 
-> ⚠️ Note: To ensure compatibility with the new updates, it’s recommended to **regenerate or edit your `config.yml`** after upgrading to v0.2.0. Check **Configuration** tab for changes.
+> ⚠️ Note: To ensure compatibility with the new updates, it’s recommended to **regenerate or edit your `config.yml`** after upgrading to v0.2.0. Check [Configuration](plugins/athis_airdrops/configuration.md) tab for changes.
 
 ## v0.1.4 - Fixes V2
 - Lockdown Hologram no longer visible when `lock-airdrop` is false.  
