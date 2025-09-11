@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.2.5: Sharpy knify
+## v1.2.5: Sharpy knify (Sep 11, 2025)
 
 - Added new Enchantment for knives. This enchantment will reduce damage and increase the food gather.
 - Fixed some mispelled words
