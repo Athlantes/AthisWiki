@@ -33,11 +33,16 @@ theme:
     pygments_style: default
 markdown_extensions:
   - admonition
-  - codehilite
   - footnotes
   - tables
   - toc:
       permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      linenums: false
+      use_pygments: true
+  - pymdownx.superfences
+
 
 nav:
   - Home: index.md
