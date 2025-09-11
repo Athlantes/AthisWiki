@@ -2,41 +2,41 @@
 
 Athi's Airdrops is fully configurable via **`config.yml`**.  
 
-# Automatic Airdrops
+### Automatic Airdrops
 - `autostart`: `false` — Start automatic airdrops on server launch.  
 - `spawn_interval_seconds`: `240` — Interval between automatic airdrops.  
 - `time-before-despawn`: `120` — Duration airdrop stays in the world.  
 
-# Location Settings
+### Location Settings
 - `world`: `world` — Default world for drops.  
 - `center_x` / `center_z`: Coordinates for center of drop area.  
 - `spawn_radius`: `1000` — Maximum radius around center for crate spawn.  
 - `max_location_attempts`: `100` — Max attempts to find valid spawn location.  
 - `min_players_to_spawn`: `3` — Minimum players online for airdrop to spawn.  
 
-# Chunk Handling
+### Chunk Handling
 - `spawn_in_loaded_chunks_only`: `false` — Only spawn in loaded chunks.  
 - `load_generated_chunk_if_unloaded`: `true` — Load chunks if unloaded.  
 
-# Misc Settings
+### Misc Settings
 - `replace_existing_block`: `true` — Replace blocks where crates land.  
 - `particle_interval_ticks`: `10` — Particle effect refresh rate.  
 
-# Animation options
+### Animation options
 -  `enabled`: `true` — true = play drop animation; false = place chest immediately
 -  `height`: `50` — starting height in blocks above target
 -  `interval_ticks`: `2` — task interval in ticks (how often the armorstand teleports)
 -  `blocks_per_tick`: `0.1` — blocks per tick the armorstand descends (speed)
 
-# Compass Tracking
+### Compass Tracking
 - `enable-compass`: `true` — Enable compass tracking system.  
 - `compass-cooldown`: `10` seconds — Cooldown between compass uses.  
 
-# Lock System
+### Lock System
 - `lock-airdrop`: `true` — Lock crates before looting.  
 - `time-before-unlock`: `30` seconds — Time until crate can be looted.  
 
-# Hologram Settings - Do not touch if you don't know what are you doing
+### Hologram Settings - Do not touch if you don't know what are you doing
 -  `create_delay_ticks`: `2` — Delay before the holograms are created.
 -  `spawn_retries`: `3` — Retries to spawn hologram if fails.
 -  `retry_delay_ticks`: `10` — Delay between retries
