@@ -2,6 +2,9 @@
 
 > ⚠️ Note: If you encounter any problems, you can join our Discord server for help: [Join Discord](https://discord.com/invite/PVVDJ7YE7b)
 
+## v0.2.0a - Loot.yml Fix
+- Fixed a bug where loot.yml didn't generate in 0.2.0.
+
 ## v0.2.0 - Command Vouchers
 - Command Based Rewards:
 Now, admins can create custom items that can be right-clicked to summon commands. For usage, check [Configuration](configuration.md) tab.
