@@ -2,7 +2,7 @@
 
 > ⚠️ Note: If you encounter any problems, you can join our Discord server for help: [Join Discord](https://discord.com/invite/PVVDJ7YE7b)
 
-## v0.3.0a - Day 0 Path (Kinda)
+## v0.3.0a - Day 0 Patch (Kinda)
 - Fixed the problem with redeemable items from custom plugins.
 - Fixed the minimum online players needed.
 
