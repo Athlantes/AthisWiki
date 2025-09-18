@@ -9,3 +9,5 @@
 - **Lightweight & optimized:** Asynchronous handling ensures minimal server impact.  
 - **Easy configuration:** Simple YAML config files allow full control without editing code.  
 - **ItemsAdder integration:** Supports the latest ItemsAdder version for custom items.
+- **Nexo Integration:** Supports the latest Nexo version for custom items.
+- **MMOItems Integration:** Supports the latest MMOItems version for custom items.
