@@ -2,6 +2,10 @@
 
 > ⚠️ Note: If you encounter any problems, you can join our Discord server for help: [Join Discord](https://discord.com/invite/PVVDJ7YE7b)
 
+## v0.3.0a - Day 0 Path (Kinda)
+- Fixed the problem with redeemable items from custom plugins.
+- Fixed the minimum online players needed.
+
 ## v0.3.0 - The Integration Update
 - Refactored airdrop management to clean up active airdrops before spawning new ones and improve logging clarity.  
 - Improved cleanup process by deferring actions for open chests and handling viewer closures.  
