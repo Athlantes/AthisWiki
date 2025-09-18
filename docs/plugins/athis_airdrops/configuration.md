@@ -52,7 +52,9 @@ All loot crates are defined in **`loot.yml`**. Each loot table has:
 - `min-items` / `max-items` — Number of items spawned.
 - `loot` — Vanilla items with material, min/max, chance, enchantments.
 - `itemsadder_loot` — Custom ItemsAdder items, same structure.
-- `commands` — Custom Items that can run commands when right-clicked
+- `mmoitems_loot` — Custom MMOItems items.
+- `nexo_loot` — Custom Nexo items.
+- `commands` — Custom Items that can run commands when right-clicked.
 
 ---
 
@@ -60,45 +62,46 @@ All loot crates are defined in **`loot.yml`**. Each loot table has:
 
 - Common Loot Crate
 ```yaml
-common_lootcrate: # Entry name - Can be anything in this format (no spaces and special characters)
+common_lootcrate:
   chance: 0.7  # 70% chance to pick this loot table
-  min-items: 1 # Minimum items that can be in the crate
-  max-items: 5 # Maximum items that can be in the crate
+  min-items: 1
+  max-items: 5
   loot:
-    iron_ingot: # Entry name - Can be anything in this format (no spaces and special characters)
-      material: IRON_INGOT # Java ID materials, UPPERCASE
-      min: 3 # Minimum items that can be in this stack
-      max: 8 # Maximum items that can be in this stack
-      chance: 0.8 # Chance for this item to spawn in this loot table
+    iron_ingot:
+      material: IRON_INGOT
+      min: 3
+      max: 8
+      chance: 0.8
   commands:
-    creative: # Entry name - Can be anything in this format (no spaces and special characters)
-      name: "&eCreative Gamemode" # Name of the item (Visible In-Game)
-      material: PAPER # Java ID materials, UPPERCASE
-      amount: 1 # Number of items given in this lootcrate
-      command: "gamemode creative %player%" # Executed command when right-click
-      executor: console # Executor of the command (console/player)
-      chance: 1 # The chance for this command to spawn in this loot table
-      consume_on_use: true # If the item will be consumed when right-click or not
-      cooldown_seconds: 60 # Cooldown before you can use another voucher of the same time
-      silent: false # If the command will runt silent (No global output in chat)
+    creative:
+      name: "&eCreative Gamemode"
+      material: PAPER
+      amount: 1
+      console_commands:
+        - "gamemode creative %player%"
+      chance: 1
+      consume_on_use: true
+      cooldown_seconds: 60
       lore:
-       - "&eGives you Creative!"
+        - "&eGives you Creative!"
         - ""
         - "&7Right Click to redeem"
     starter_bundle:
       name: "&6Starter Bundle"
       material: BUNDLE
       amount: 1
-      commands:
-       - "give %player% minecraft:stone 64"
-       - "give %player% minecraft:oak_log 32"
-      executor: console
+      # Commands to execute as console
+      console_commands:
+        - "give %player% minecraft:stone 64"
+        - "give %player% minecraft:oak_log 32"
+      # Commands to execute as player (optional)
+      player_commands:
+        - "say Hello %player%"
       chance: 0.5
       consume_on_use: true
       cooldown_seconds: 300
-      silent: true
       lore:
-       - "&7Redeem to receive starter items"
+        - "&7Redeem to receive starter items"
 ```
 
 - Uncommon Loot Crate
@@ -127,4 +130,37 @@ uncommon_drop:
       min: 1
       max: 1
       chance: 0.6
+```
+
+- Legendary Loot Crate
+```yaml
+legendary_drop:
+  chance: 0.1  # 10% chance to pick this loot table
+  min-items: 1
+  max-items: 5
+  loot:
+    netherite_sword:
+      material: NETHERITE_SWORD
+      min: 1
+      max: 1
+      chance: 0.4
+  mmoitems_loot:
+    long_sword:
+      type: SWORD
+      id: LONG_SWORD
+      min: 1
+      max: 1
+      chance: 1.0
+    blaze_wand:
+      type: WAND
+      id: BLAZE_WAND
+      min: 1
+      max: 1
+      chance: 0.5
+  nexo_loot:
+    forest_axe:
+      nexo_id: "forest_axe"
+      min: 1
+      max: 1
+      chance: 1.0
 ```

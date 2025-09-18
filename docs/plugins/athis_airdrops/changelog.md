@@ -2,6 +2,17 @@
 
 > ⚠️ Note: If you encounter any problems, you can join our Discord server for help: [Join Discord](https://discord.com/invite/PVVDJ7YE7b)
 
+## v0.3.0 - The Integration Update
+- Refactored airdrop management to clean up active airdrops before spawning new ones and improve logging clarity.  
+- Improved cleanup process by deferring actions for open chests and handling viewer closures.  
+- Added support for executing loot item commands with both console and player execution. For usage, check [Configuration](configuration.md) tab. 
+- Added Nexo integration for loot generation and enhanced logging.  
+- Added MMOItems support for loot generation.  
+- Improved ItemsAdder compatibility for loot handling.  
+- Clearer compatibility warnings for MMOItems and ItemsAdder loot setups.  
+
+> ⚠️ Note: To ensure compatibility with the new updates, it’s recommended to **regenerate or edit your `config.yml` and `loot.yml`** after upgrading to v0.3.0. Check [Configuration](configuration.md) tab for changes.
+
 ## v0.2.0a - Loot.yml Fix
 - Fixed a bug where loot.yml didn't generate in 0.2.0.
 
