@@ -6,6 +6,7 @@
 - Added multiple airdrops at the same time. Now you can set in config.yml how many airdrops at the same time you want to have on the server.
 - Improved `/airdrop spawn` command. Now you can specify the loot table for that airdrop if you want. If no loot table is specified, the airdrop will select one randomly.
 - Added `/aidrop list` command where you can see the active airdrops (admins only).
+- Added `/aidrop clear` command. Now you can clear any spawned loot table if you want.
 - Added separate loot.yml files for every loot table. Now you will have a `loot` folder, where you will find 3 .yml loot tables by default. 
 - Old `loot.yml` will be AUTOMATICALLY migrated to the new system. MAKE SURE YOUR `loot.yml` DOES NOT HAVE ERRORS BEFORE UPDATING.
 
