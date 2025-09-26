@@ -64,6 +64,12 @@ nav:
         - Installation: mods/eat_yourself/installation.md
         - Recipes: mods/eat_yourself/recipes.md
         - Changelog: mods/eat_yourself/changelog.md
+      - "Infernal Farmer":
+        - Overview: mods/infernal_farmer/overview.md
+        - Features: mods/infernal_farmer/features.md
+        - Installation: mods/infernal_farmer/installation.md
+        - Recipes: mods/infernal_farmer/recipes.md
+        - Changelog: mods/infernal_farmer/changelog.md
   - Modpacks:
       - "All Modpacks": modpacks/modpacks.md
       - "🧰 Builder's Toolbox": 

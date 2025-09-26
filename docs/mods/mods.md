@@ -8,6 +8,7 @@ Click on any mod below to go directly to its **Overview** page.
 ## Mods List
 
 - [Eat Yourself](eat_yourself/overview.md) – Fun mechanics that let players interact with themselves!  
+- [Infernal Farmer](infernal_farmer/overview.md) – Bring farming to The Nether. Literally!
 
 ---
 
