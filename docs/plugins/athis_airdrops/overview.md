@@ -1,7 +1,7 @@
 # Athi's Airdrops – Overview 🎁
 
 Athi's Airdrops is a **custom airdrop system for Minecraft servers**.  
-It allows server admins to create **custom loot crates**, with configurable timers, tracking, and ItemsAdder integration.
+It allows server admins to create **custom loot crates**, with configurable timers, tracking, and custom items plugins integration.
 
 **Key highlights:**
 - Fully customizable loot tables

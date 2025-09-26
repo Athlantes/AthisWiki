@@ -6,7 +6,7 @@ Athi's Airdrops is fully configurable via **`config.yml`**.
 - `autostart`: `false` — Start automatic airdrops on server launch.  
 - `spawn_interval_seconds`: `240` — Interval between automatic airdrops.  
 - `time-before-despawn`: `120` — Duration airdrop stays in the world.  
-
+- `max_concurrent_airdrops`: `3` — Maximum number of concurrent airdrops.
 ### Location Settings
 - `world`: `world` — Default world for drops.  
 - `center_x` / `center_z`: Coordinates for center of drop area.  
@@ -46,7 +46,7 @@ Athi's Airdrops is fully configurable via **`config.yml`**.
 
 ## Loot Tables – Athi's Airdrops 🎁
 
-All loot crates are defined in **`loot.yml`**. Each loot table has:
+All loot crates are defined in **`loot`** folder. Each loot table has:
 
 - `chance` — Probability of this table being selected.
 - `min-items` / `max-items` — Number of items spawned.
@@ -60,9 +60,8 @@ All loot crates are defined in **`loot.yml`**. Each loot table has:
 
 ## Example Loot Tables
 
-- Common Loot Crate
+- common_lootcrate.yml
 ```yaml
-common_lootcrate:
   chance: 0.7  # 70% chance to pick this loot table
   min-items: 1
   max-items: 5
@@ -104,9 +103,8 @@ common_lootcrate:
         - "&7Redeem to receive starter items"
 ```
 
-- Uncommon Loot Crate
+- uncommon_drop.yml
 ```yaml
-uncommon_drop:
   chance: 0.3
   min-items: 1
   max-items: 5
@@ -132,7 +130,7 @@ uncommon_drop:
       chance: 0.6
 ```
 
-- Legendary Loot Crate
+- legendary_drop.yml
 ```yaml
 legendary_drop:
   chance: 0.1  # 10% chance to pick this loot table

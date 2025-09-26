@@ -1,6 +1,7 @@
 # Features – Athi's Airdrops ⚡
 
 - **Customizable loot tables:** Define items and drop chances per crate.  
+- **Multiple Airdrops at the same time** Define how many airdrops do you want to spawn.
 - **Compass tracking system:** Players can locate the nearest crate by right-clicking a compass.  
 - **Locked crates with timers:** Crates remain locked for a configurable duration after landing.  
 - **Adjustable spawn radius:** Control distance from players or specific locations for crate drops.  

@@ -2,6 +2,15 @@
 
 > ⚠️ Note: If you encounter any problems, you can join our Discord server for help: [Join Discord](https://discord.com/invite/PVVDJ7YE7b)
 
+## v0.4.0 - Airdrops for Everyone!
+- Added multiple airdrops at the same time. Now you can set in config.yml how many airdrops at the same time you want to have on the server.
+- Improved `/airdrop spawn` command. Now you can specify the loot table for that airdrop if you want. If no loot table is specified, the airdrop will select one randomly.
+- Added `/aidrop list` command where you can see the active airdrops (admins only).
+- Added separate loot.yml files for every loot table. Now you will have a `loot` folder, where you will find 3 .yml loot tables by default. 
+- Old `loot.yml` will be AUTOMATICALLY migrated to the new system. MAKE SURE YOUR `loot.yml` DOES NOT HAVE ERRORS BEFORE UPDATING.
+
+> ⚠️ Note: To ensure compatibility with the new updates, it’s recommended to **regenerate or edit your `config.yml`** after upgrading to v0.4.0. Check [Configuration](configuration.md) tab for changes.
+
 ## v0.3.0a - Day 0 Patch (Kinda)
 - Fixed the problem with redeemable items from custom plugins.
 - Fixed the minimum online players needed.
