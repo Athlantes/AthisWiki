@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.3.0: Eat Others! (Sep 27, 2025)
+
+- Added the ability to cut others too!
+- Added a new gamerule for this ability to be able to turn on/off.
+- Added Bleeding Effect that trigger if you cut yourself too much and too fast.
+- Added Bandages to cure Bleeding
+- Sharp Blade enchantment will not trigger Bleeding
+- Added config.yml file with configurations for mod.
+- Reworked most of the textures.
+
+*For detailed updates and discussions, join the [Discord Server](https://discord.gg/PVVDJ7YE7b).*
+
 ## v1.2.5: Sharpy knify (Sep 11, 2025)
 
 - Added new Enchantment for knives. This enchantment will reduce damage and increase the food gather.
