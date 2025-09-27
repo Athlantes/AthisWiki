@@ -34,3 +34,10 @@
 **Recipe Image:**
 
 ![Sandwich Crafting](images/player_meat_soup_crafting.png)
+
+## Bandage Crafting
+**Ingredients:** 4 String, 3 Paper, 2 Leather
+
+**Recipe Image:**
+
+![Bandage Crafting](images/bandage_crafting.png)
