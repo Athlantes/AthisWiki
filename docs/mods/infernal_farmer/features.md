@@ -11,7 +11,7 @@ Infernal Farmer transforms your farming experience into a challenging, creative,
 - **Hostile & Rewarding Environments:** Survive treacherous terrain and reap the rewards of daring farming.
 
 ## 🌱 Exotic Crops & Ingredients
-- Grow **Ash Pepper, Blazeroot, Cinder Cane, and Emberberry**.
+- Grow **Ash Pepper, Blazeroot, Cinder Cane, and more.**.
 - Experiment with unique growth mechanics tailored to Nether-like conditions.
 - Harvest ingredients that can be combined into powerful foods and beverages.
 

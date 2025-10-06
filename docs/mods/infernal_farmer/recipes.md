@@ -21,6 +21,13 @@
 
 ![Glazed Hoglin Meat](images/glazed_hoglin_meat.png)
 
+## Kelp Hoglin Rolls
+**Ingredients:** 3 Cooked Hoglin Meat, 6 Dried Kelp
+
+**Recipe Image:**
+
+![Kelp Hoglin Rolls](images/kelp_hoglin_rolls.png)
+
 ## Cinder Latte
 **Ingredients:** 1 Hoglin Milk, 1 Blaze Powder, 1 Cinder Syrup
 
@@ -41,3 +48,10 @@
 **Recipe Image:**
 
 ![Cinder Syrup](images/cinder_syrup.png)
+
+## Obsidian Onion Jam
+**Ingredients:** 1 Cinder Syrup, 1 Obsidian Onion, 1 Sugar
+
+**Recipe Image:**
+
+![Cinder Syrup](images/obsidian_onion_jam.png)
