@@ -25,6 +25,7 @@ The flint can be gather as you know, by breaking Gravel. But you know how annoyi
 the Gravel into flint. You can make a Crude Brush by combining 3 sticks and a Plant Fiber in crafting.
 
 Sticks was the hardest to get without being able to break trees, but now, that's not that hard. Instead of praying to get a stick when break leaves, now you can pray to get a sapling too. Every sapling is a stick if you put it in Crafting Table.
+
 ---
 
 ## I have Flint Tools. What Now?
