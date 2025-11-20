@@ -9,6 +9,7 @@ Click on any mod below to go directly to its **Overview** page.
 
 - [Eat Yourself](eat_yourself/overview.md) – Fun mechanics that let players interact with themselves!  
 - [Infernal Farmer](infernal_farmer/overview.md) – Bring farming to The Nether. Literally!
+- [Flint Required](flint_required/overview.md) - Give a little more life to early game with Flint Tools!
 
 ---
 

@@ -64,12 +64,18 @@ nav:
         - Installation: mods/eat_yourself/installation.md
         - Recipes: mods/eat_yourself/recipes.md
         - Changelog: mods/eat_yourself/changelog.md
-      - "Infernal Farmer":
+      - "🔥 Infernal Farmer":
         - Overview: mods/infernal_farmer/overview.md
         - Features: mods/infernal_farmer/features.md
         - Installation: mods/infernal_farmer/installation.md
         - Recipes: mods/infernal_farmer/recipes.md
         - Changelog: mods/infernal_farmer/changelog.md
+      - "⚒️ Flint Required":
+        - Overview: mods/flint_required/overview.md
+        - Features: mods/flint_required/features.md
+        - Installation: mods/flint_required/installation.md
+        - Recipes: mods/flint_required/recipes.md
+        - Changelog: mods/flint_required/changelog.md
   - Modpacks:
       - "All Modpacks": modpacks/modpacks.md
       - "🧰 Builder's Toolbox": 
